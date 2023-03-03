@@ -1,0 +1,3 @@
+<p style="font-weight:bold;font-size:20px">The system provides a lot of facility to the users i.e. the visitors and the users of the system, any changes are given to the visitors, reports are also generated according to the requirements a visitor has. Long queues experienced at entrances, the slowness of recording visitors manually will be eliminated as the proposed system will be fast and convenient. The system will also be capable of keeping, recording and maintaining all records of persons in and out a facility in each and every minute
+OVMS will also be used to overcome the entire problems currently faced in managing persons in and out a place and making complete automation of manual system to computerized
+</p>
