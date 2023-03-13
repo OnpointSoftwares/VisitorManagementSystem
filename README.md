@@ -4,7 +4,7 @@ It has three users; admin,receptionist and visitor.
 <u>Receptionist View bookings</u>
 ![Alt text](https://github.com/OnpointSoftwares/VisitorManagementSystem/blob/main/screenshots/1.PNG "Homepage")
 
-Homepage
+Receptionist view users
 ![Alt text](https://github.com/OnpointSoftwares/VisitorManagementSystem/blob/main/screenshots/2.PNG "Homepage")
 
 Homepage
