@@ -7,7 +7,7 @@ It has three users; admin,receptionist and visitor.
 Receptionist view users
 ![Alt text](https://github.com/OnpointSoftwares/VisitorManagementSystem/blob/main/screenshots/2.PNG "Homepage")
 
-Homepage
+Receptioptionist update their details
 ![Alt text](https://github.com/OnpointSoftwares/VisitorManagementSystem/blob/main/screenshots/3.PNG "Homepage")
 
 Homepage
