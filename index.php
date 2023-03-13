@@ -33,6 +33,21 @@ if($error != null)
 else{
   
 }
+if(isset($_GET['success']))
+{
+$success=$_GET['success'];
+if($success==1)
+{
+  ?>
+<script>
+  alert('Signup successfull');
+</script>
+  <?php
+}
+else{
+  
+}
+}
 }
 if(isset($_GET['page']))
 {
@@ -98,7 +113,8 @@ class="close" title="Close Modal">&times;</span>
 
     <div class="container" style="background-color:#f1f1f1">
       <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-      <span class="psw">Forgot <a href="#">password?</a></span>
+      <span class="psw">Forgot <a href="signup.php">password?</a></span><br>
+      <span class="psw">Signup<a href="signup.php">Here</a></span>
     </div>
   </form>
 </div>
